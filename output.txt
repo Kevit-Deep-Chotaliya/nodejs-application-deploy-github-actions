@@ -1,0 +1,12 @@
+Product : Global Objects
+Product : process
+Product : __dirname
+Product : __filename
+Product : Buffer
+Product : Environment Variables
+Product : Command Line Arguments
+Product : CommonJS
+Product : ES Modules in Node.js
+Product : Creating Custom Modules
+Product : Module Resolution
+Product : Package Entry Points
